@@ -55,8 +55,8 @@
 
 <p>
     &emsp;&emsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=wassim-itani&show_icons=true&locale=en&theme=transparent" alt="Readme stats" height="230" align="center" />
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wassim-itani&show_icons=true&locale=en&theme=transparent" alt="Top languages" height="230" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wassim-itani&show_icons=true&locale=en&theme=transparent" alt="Readme stats" height="200" align="center" />
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wassim-itani&show_icons=true&locale=en&theme=transparent" alt="Top languages" height="200" align="center" />
 </p>
 </br>
 
