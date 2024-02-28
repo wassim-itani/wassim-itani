@@ -25,8 +25,8 @@
 ### 👉 Frameworks and Libraries
 
 <p>
-  &emsp;&ensp;
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>   
+  &emsp;&emsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>   
   &emsp;
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?=tailwindcss&logoColor=white" alt="Tailwind CSS"/>   
   &emsp;
